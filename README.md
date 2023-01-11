@@ -171,7 +171,7 @@
   </a>&nbsp;&nbsp;&nbsp;
     <!----->
     <a href="https://www.instagram.com/kooo.edayyy/">
-    <img src="revisi eko 2.svg" alt="codechef" style="vertical-align:top; margin:4px">
+    <img src=resources/ICLA/proton.svg alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
 
