@@ -12,55 +12,55 @@
   <tr>
   <td align="center" width="96">
       <a href="https://go.dev/" >
-        <img src="Go.svg" width="48" height="48" alt="Go" />
+        <img src=resources/ICLA/Go.svg width="48" height="48" alt="Go" />
       </a>
       <br>Go
     </td>
   <td align="center" width="96">
       <a href="https://aws.amazon.com/" >
-        <img src="Aws.svg" width="48" height="48" alt="Aws" />
+        <img src=resources/ICLA/Aws.svg width="48" height="48" alt="Aws" />
       </a>
       <br>Aws
     </td>
   <td align="center" width="96">
       <a href="https://en.wikipedia.org/wiki/Command-line_interface" >
-        <img src="Cli.svg" width="48" height="48" alt="Cli" />
+        <img src=resources/ICLA/Cli.svg width="48" height="48" alt="Cli" />
       </a>
       <br>Cli
     </td>
   <td align="center" width="96">
       <a href="https://www.jetbrains.com/datagrip/" >
-        <img src="DataGrip.svg" width="48" height="48" alt="Data Grip" />
+        <img src=resources/ICLA/DataGrip.svg width="48" height="48" alt="Data Grip" />
       </a>
       <br>DataGrip
     </td>
   <td align="center" width="96">
       <a href="https://www.docker.com/" >
-        <img src="Docker.svg" width="48" height="48" alt="Docker" />
+        <img src=resources/ICLA/Docker.svg width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
   <td align="center" width="96">
       <a href="https://git-scm.com/" >
-        <img src="Git.svg" width="48" height="48" alt="Git" />
+        <img src=resources/ICLA/Git.svg width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
       <td align="center" width="96">
       <a href="https://github.com/" >
-        <img src="Github.svg" width="48" height="48" alt="Git" />
+        <img src=resources/ICLA/Github.svg width="48" height="48" alt="Git" />
       </a>
       <br>Github
     </td>
   <td align="center" width="96">
       <a href="https://www.jetbrains.com/go/" >
-        <img src="Goland.svg" width="48" height="48" alt="Goland IDE" />
+        <img src=resources/ICLA/Goland.svg width="48" height="48" alt="Goland IDE" />
       </a>
       <br>Goland
     </td>
     <td align="center" width="96">
       <a href="https://id.wikipedia.org/wiki/HTML5" >
-        <img src="Html5.svg" width="48" height="48" alt="Html 5" />
+        <img src=resources/ICLA/Html5.svg width="48" height="48" alt="Html 5" />
       </a>
       <br>Html 5
     </td>
@@ -68,55 +68,55 @@
   <tr>
   <td align="center" width="96">
       <a href="https://www.mysql.com/" >
-        <img src="Mysql.svg" width="48" height="48" alt="Mysql" />
+        <img src=resources/ICLA/Mysql.svg width="48" height="48" alt="Mysql" />
       </a>
       <br>Mysql
     </td>
   <td align="center" width="96">
       <a href="https://ubuntu.com/download" >
-        <img src="Ubuntu.svg" width="48" height="48" alt="Ubuntu" />
+        <img src=resources/ICLA/Ubuntu.svg width="48" height="48" alt="Ubuntu" />
       </a>
       <br>Ubuntu
     </td>
   <td align="center" width="96">
       <a href="https://id.wikipedia.org/wiki/CSS_3" >
-        <img src="Css3.svg" width="48" height="48" alt="Css 3" />
+        <img src=resources/ICLA/Css3.svg width="48" height="48" alt="Css 3" />
       </a>
       <br>Css 3
     </td>
      <td align="center" width="96">
       <a href="https://brave.com/id/" >
-        <img src="Brave.svg" width="48" height="48" alt="Brave" />
+        <img src=resources/ICLA/Brave.svg width="48" height="48" alt="Brave" />
       </a>
       <br>Brave
     </td>
        <td align="center" width="96">
       <a href="https://www.chromium.org/" >
-        <img src="Chromium.svg" width="48" height="48" alt="Chromium" />
+        <img src=resources/ICLA/Chromium.svg width="48" height="48" alt="Chromium" />
       </a>
       <br>Chromium
     </td>
          <td align="center" width="96">
       <a href="https://www.postman.com/" >
-        <img src="Postman.svg" width="48" height="48" alt="Postman" />
+        <img src=resources/ICLA/Postman.svg width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
     </td>
             <td align="center" width="96">
       <a href="https://stackoverflow.com/" >
-        <img src="StackOverflow.svg" width="48" height="48" alt="StackOverflow" />
+        <img src=resources/ICLA/StackOverflow.svg width="48" height="48" alt="StackOverflow" />
       </a>
       <br>StackOverflow
     </td>        
     <td align="center" width="96">
       <a href="https://trello.com/" >
-        <img src="Trello.svg" width="48" height="48" alt="Trello" />
+        <img src=resources/ICLA/Trello.svg width="48" height="48" alt="Trello" />
       </a>
       <br>Trello
     </td>
         <td align="center" width="96">
       <a href="https://medium.com/" >
-        <img src="Medium.svg" width="48" height="48" alt="Medium" />
+        <img src=resources/ICLA/Medium.svg width="48" height="48" alt="Medium" />
       </a>
       <br>Medium
     </td>
@@ -138,13 +138,13 @@
   <tr>
   <td align="center" width="100%">
       <a href="https://pondokit.com/" >
-        <img src="pondokit.jpeg" width="70" height="48" alt="Pondok IT" />
+        <img src=resources/E/pondokit.jpeg width="70" height="48" alt="Pondok IT" />
       </a>
       <br>Pondok IT
     </td>
      <td align="center" width="100%">
       <a href="http://pondokprogrammer.com/" >
-        <img src="programmer.png" width="70" height="48" alt="PondokProgrammer" />
+        <img src=resources/E/programmer.png width="70" height="48" alt="PondokProgrammer" />
       </a>
       <br>PondokProgrammer
     </td>
