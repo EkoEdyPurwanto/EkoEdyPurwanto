@@ -40,6 +40,12 @@
       </a>
       <br>Docker
     </td>
+      <td align="center" width="96">
+      <a href="https://kubernetes.io/" >
+        <img src=resources/ICLA/kubernetes.svg width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
   <td align="center" width="96">
       <a href="https://git-scm.com/" >
         <img src=resources/ICLA/Git.svg width="48" height="48" alt="Git" />
@@ -71,6 +77,12 @@
         <img src=resources/ICLA/Mysql.svg width="48" height="48" alt="Mysql" />
       </a>
       <br>Mysql
+    </td>
+  <td align="center" width="96">
+      <a href="https://www.postgresql.org/" >
+        <img src=resources/ICLA/postgresql.svg width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
     </td>
   <td align="center" width="96">
       <a href="https://ubuntu.com/download" >
