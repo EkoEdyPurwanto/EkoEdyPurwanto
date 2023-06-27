@@ -138,6 +138,18 @@
       </a>
       <br>Medium
     </td>
+  <td align="center" width="96">
+      <a href="https://go.dev/" >
+        <img src="Prometheus.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Prometheus
+    </td>
+   <td align="center" width="96">
+      <a href="https://grafana.com/" >
+        <img src="resources/ICLA/Grafana.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
   </tr>
   </table>
 
