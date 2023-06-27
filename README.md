@@ -140,7 +140,7 @@
     </td>
   <td align="center" width="96">
       <a href="https://prometheus.io/" >
-        <img src="Prometheus.svg" width="48" height="48" alt="Prometheus" />
+        <img src="resources/ICLA/Prometheus.svg" width="48" height="48" alt="Prometheus" />
       </a>
       <br>Prometheus
     </td>
