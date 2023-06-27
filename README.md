@@ -40,11 +40,17 @@
       </a>
       <br>Docker
     </td>
-      <td align="center" width="96">
+  <td align="center" width="96">
       <a href="https://kubernetes.io/" >
         <img src=resources/ICLA/kubernetes.svg width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
+    </td>
+  <td align="center" width="96">
+      <a href="https://go.dev/" >
+        <img src="resources/ICLA/jenkins.svg" width="48" height="48" alt="Jenkins" />
+      </a>
+      <br>Jenkins
     </td>
   <td align="center" width="96">
       <a href="https://git-scm.com/" >
@@ -52,7 +58,7 @@
       </a>
       <br>Git
     </td>
-      <td align="center" width="96">
+  <td align="center" width="96">
       <a href="https://github.com/" >
         <img src=resources/ICLA/Github.svg width="48" height="48" alt="Git" />
       </a>
@@ -64,7 +70,7 @@
       </a>
       <br>Goland
     </td>
-    <td align="center" width="96">
+  <td align="center" width="96">
       <a href="https://id.wikipedia.org/wiki/HTML5" >
         <img src=resources/ICLA/Html5.svg width="48" height="48" alt="Html 5" />
       </a>
@@ -96,7 +102,7 @@
       </a>
       <br>Css 3
     </td>
-     <td align="center" width="96">
+  <td align="center" width="96">
       <a href="https://brave.com/id/" >
         <img src=resources/ICLA/Brave.svg width="48" height="48" alt="Brave" />
       </a>
@@ -108,25 +114,25 @@
       </a>
       <br>Chromium
     </td>
-         <td align="center" width="96">
+  <td align="center" width="96">
       <a href="https://www.postman.com/" >
         <img src=resources/ICLA/Postman.svg width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
     </td>
-            <td align="center" width="96">
+  <td align="center" width="96">
       <a href="https://stackoverflow.com/" >
         <img src=resources/ICLA/StackOverflow.svg width="48" height="48" alt="StackOverflow" />
       </a>
       <br>StackOverflow
     </td>        
-    <td align="center" width="96">
+  <td align="center" width="96">
       <a href="https://trello.com/" >
         <img src=resources/ICLA/Trello.svg width="48" height="48" alt="Trello" />
       </a>
       <br>Trello
     </td>
-        <td align="center" width="96">
+  <td align="center" width="96">
       <a href="https://medium.com/" >
         <img src=resources/ICLA/Medium.svg width="48" height="48" alt="Medium" />
       </a>
