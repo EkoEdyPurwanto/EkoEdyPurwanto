@@ -76,6 +76,12 @@
       </a>
       <br>Html 5
     </td>
+    <td align="center" width="96">
+      <a href="https://grafana.com/" >
+        <img src="resources/ICLA/Rest-api.svg" width="48" height="48" alt="REST-API" />
+      </a>
+      <br>REST-APi
+    </td>
   </tr>
   <tr>
   <td align="center" width="96">
