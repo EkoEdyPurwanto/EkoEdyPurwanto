@@ -78,9 +78,9 @@
     </td>
     <td align="center" width="96">
       <a href="https://grafana.com/" >
-        <img src="resources/ICLA/Rest-api.svg" width="48" height="48" alt="REST-API" />
+        <img src="resources/ICLA/Rest-api.svg" width="48" height="48" alt="Rest.Api" />
       </a>
-      <br>REST-APi
+      <br>Rest.Api
     </td>
   </tr>
   <tr>
