@@ -82,6 +82,12 @@
       </a>
       <br>Rest.Api
     </td>
+  <td align="center" width="96">
+      <a href="https://grpc.io/" >
+        <img src="resources/ICLA/Grpc.svg" width="48" height="48" alt="Grpc" />
+      </a>
+      <br>Grpc
+    </td>
   </tr>
   <tr>
   <td align="center" width="96">
@@ -155,6 +161,13 @@
         <img src="resources/ICLA/Grafana.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>Grafana
+    </td>
+
+<td align="center" width="96">
+      <a href="https://www.rabbitmq.com/" >
+        <img src="resources/ICLA/RabbitMq.svg" width="48" height="48" alt="RabbitMQ" />
+      </a>
+      <br>RabbitMQ
     </td>
   </tr>
   </table>
