@@ -8,6 +8,7 @@
 #
 
 <summary><h3>I'm currently learning about:</h3></summary>
+// TABLE
 <table>
   <tr>
   <td align="center" width="96">
@@ -89,6 +90,7 @@
       <br>Grpc
     </td>
   </tr>
+// MIDDLE TABLE
   <tr>
   <td align="center" width="96">
       <a href="https://www.mysql.com/" >
@@ -171,6 +173,7 @@
     </td>
   </tr>
   </table>
+// END TABLE
 
 #
 
