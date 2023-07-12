@@ -216,11 +216,11 @@
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/web.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   <!----->
-    <a href="https://www.instagram.com/kooo.edayyy/">
+    <a href="mailto:echoedyp@proton.me">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/gmail.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
     <!----->
-    <a href="https://www.instagram.com/kooo.edayyy/">
+    <a href="mailto:echoedyp@proton.me">
     <img src=resources/ICLA/proton.svg alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
