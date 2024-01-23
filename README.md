@@ -227,6 +227,10 @@ debugging so that my programs run smoothly, Forever.</samp></h4>
 
 <summary><h3>Experience:</h3></summary>
 
+| PLACE                                              | STARTED AT    | ENDED AT       | DESCRIPTION                                                                                                                                                                    |
+|----------------------------------------------------|---------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Pondok Programmer](https://pondokprogrammer.com/) | January 2022  | January 2024   | Backend, DevOps,GoLang, AWS, Google Cloud, Rest API, Database, Server, lean Code, Clean Architecture, Containerization, Container Orchestration Platform, Linux, VCS, API Docs |
+| [Enigmacamp](https://enigmacamp.com/)              | August 2023   | September 2023 | Backend, GoLang, Rest API, Database, Server, Clean Code, Clean Architecture, Agile Development, VCS, API Docs                                                                  |
 #
 
 <summary><h3>Education:</h3></summary>
