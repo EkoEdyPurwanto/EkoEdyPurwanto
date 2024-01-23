@@ -232,20 +232,14 @@ debugging so that my programs run smoothly, Forever.</samp></h4>
 <summary><h3>Education:</h3></summary>
 <table>
   <tr>
-  <td align="center" width="100%">
-      <a href="https://pondokit.com/" >
-        <img src=resources/E/pondokit.jpeg width="70" height="48" alt="Pondok IT" />
+      <td align="center" width="100%">
+      <a href="https://smkpenerbangansda.sch.id/" >
+        <img src=resources/E/smkpnb.jpg width="70" height="48" alt="Pondok IT" />
       </a>
-      <br>Pondok IT
-    </td>
-     <td align="center" width="100%">
-      <a href="http://pondokprogrammer.com/" >
-        <img src=resources/E/programmer.png width="70" height="48" alt="PondokProgrammer" />
-      </a>
-      <br>PondokProgrammer
-    </td>
-    </tr>
-    </table>
+      <br>SMK Penerbangan DW
+      </td>
+  </tr>
+</table>
 
 #
 
