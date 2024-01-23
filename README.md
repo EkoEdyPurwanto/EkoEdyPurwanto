@@ -204,7 +204,7 @@
 #
 
 <summary><h3>How to reach me:</h3></summary>
-  <a href="https://www.instagram.com/kooo.edayyy/">
+  <a href="https://www.instagram.com/cak.bako/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/instagram.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   <!----->
@@ -212,7 +212,7 @@
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   <!----->
-    <a href="https://EkoEdyPurwanto.github.io/">
+    <a href="https://ekoedypurwanto.github.io/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/web.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   <!----->
