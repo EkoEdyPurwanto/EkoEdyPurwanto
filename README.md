@@ -199,13 +199,13 @@ Issued Jun 2023 – _No Expiration Date_, [_See Certificate_](https://drive.goog
 Issued November 2022 – _No Expiration Date_, [_See Certificate_](https://drive.google.com/file/d/1OA7MNGnTNrxfhj0dc02CU5jdaMBMHqDg/view?usp=sharing)
 
 - **Praktik Belajar Docker dan Kubernetes untuk Pemula** — Udemy -
-Issued July 2023 – _No Expiration Date_, [_See Certificate_][https://drive.google.com/file/d/1pI6J3ErkMxZjN39wG4kyn0FIfVruYXWl/view?usp=sharing]
+Issued July 2023 – _No Expiration Date_, [_See Certificate_](https://drive.google.com/file/d/1pI6J3ErkMxZjN39wG4kyn0FIfVruYXWl/view?usp=sharing)
 
 - **English Testing Center** — Smk Negri 1 Surabaya -
-Issued march 2018 – _No Expiration Date_, [_See Certificate_][https://drive.google.com/file/d/1Lq9c857RfflsizSae9rYv9fPc2e551IL/view?usp=sharing]
+Issued march 2018 – _No Expiration Date_, [_See Certificate_](https://drive.google.com/file/d/1Lq9c857RfflsizSae9rYv9fPc2e551IL/view?usp=sharing)
 
 - **Sertifikat Komputer** — Mitra Komputer -
-Issued july 2018 – _No Expiration Date_, [_See Certificate_][https://drive.google.com/file/d/1gZJrDquzxDvMeDV0qQUz8kcXN0HK56_P/view?usp=sharing]
+Issued july 2018 – _No Expiration Date_, [_See Certificate_](https://drive.google.com/file/d/1gZJrDquzxDvMeDV0qQUz8kcXN0HK56_P/view?usp=sharing)
 
 - **General English Programme** — New Concept -
 Issued June 2018 – _No Expiration Date_, [_See Certificate_](https://drive.google.com/file/d/1zcsX5Sx9z04JEhdHfz1TsIQCZETRiiu8/view?usp=sharing)
