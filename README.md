@@ -236,7 +236,8 @@ debugging so that my programs run smoothly, Forever.</samp></h4>
       <a href="https://smkpenerbangansda.sch.id/" >
         <img src=resources/E/smkpnb.jpg width="70" height="48" alt="Pondok IT" />
       </a>
-      <br>SMK Penerbangan DW
+      <br>
+      <strong>SMK Penerbangan DW</strong>
       </td>
   </tr>
 </table>
