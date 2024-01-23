@@ -181,34 +181,34 @@ debugging so that my programs run smoothly, Forever.</samp></h4>
 <summary><h3>Certificates:</h3></summary>
 
 - **GoLang Developer** — EnigmaCamp - 
-Issued August 2023 – _No Expiration Date_, [See Certificate][https://drive.google.com/file/d/1XQZRI41l-HC7yreCnin_EJa1GlJMF0yn/view?usp=sharing]
+Issued August 2023 – _No Expiration Date_, [_See Certificate_](https://drive.google.com/file/d/1XQZRI41l-HC7yreCnin_EJa1GlJMF0yn/view?usp=sharing)
 
 - **Merancang dan membuat Basis Data Menggunakan SQL untuk Analis Database** — Data Academy -
-Issued March 2022 – _No Expiration Date_, [_See Certificate_][2]
+Issued March 2022 – _No Expiration Date_, [_See Certificate_](https://drive.google.com/file/d/1CotC8NF6OwpSlwJm3E76ON-d2qRDcDMF/view?usp=sharing)
 
 - **Belajar Ethical Hacking dan Mengatasi Peretasan IT bagi Cyber Security Specialist, Pentester dan White Hat Hacker** — Course-Net -
-Issued March 2022 – _No Expiration Date_, [_See Certificate_][3]
+Issued March 2022 – _No Expiration Date_, [_See Certificate_](https://drive.google.com/file/d/1mnEacFJIY7iLqxTDY4ub8vj7wGu4Enxp/view?usp=sharing)
 
 - **Problem Solving (intermediate)** — HackerRank -
-Issued June 2023 – _No Expiration Date_, [_See Certificate_][4]
+Issued June 2023 – _No Expiration Date_, [_See Certificate_](https://drive.google.com/file/d/1HWyEB4VgxmLWHpTRPwuIBAGIcgbfqveV/view?usp=sharing)
 
 - **SQL (Advanced)**  — HackerRank -
-Issued Jun 2023 – _No Expiration Date_, [_See Certificate_][5]
+Issued Jun 2023 – _No Expiration Date_, [_See Certificate_](https://drive.google.com/file/d/1wLGLJiafksUnLXrk3jC0kfUIXoVgIqHs/view?usp=sharing)
 
 - **Hal-hal dasar yang harus kamu tau sebelum belajar Golang!** — Edspert.id -
-Issued November 2022 – _No Expiration Date_, [_See Certificate_][6]
+Issued November 2022 – _No Expiration Date_, [_See Certificate_](https://drive.google.com/file/d/1OA7MNGnTNrxfhj0dc02CU5jdaMBMHqDg/view?usp=sharing)
 
 - **Praktik Belajar Docker dan Kubernetes untuk Pemula** — Udemy -
-Issued July 2023 – _No Expiration Date_, [_See Certificate_][7]
+Issued July 2023 – _No Expiration Date_, [_See Certificate_][https://drive.google.com/file/d/1pI6J3ErkMxZjN39wG4kyn0FIfVruYXWl/view?usp=sharing]
 
 - **English Testing Center** — Smk Negri 1 Surabaya -
-Issued march 2018 – _No Expiration Date_, [_See Certificate_][8]
+Issued march 2018 – _No Expiration Date_, [_See Certificate_][https://drive.google.com/file/d/1Lq9c857RfflsizSae9rYv9fPc2e551IL/view?usp=sharing]
 
 - **Sertifikat Komputer** — Mitra Komputer -
-Issued july 2018 – _No Expiration Date_, [_See Certificate_][9]
+Issued july 2018 – _No Expiration Date_, [_See Certificate_][https://drive.google.com/file/d/1gZJrDquzxDvMeDV0qQUz8kcXN0HK56_P/view?usp=sharing]
 
 - **General English Programme** — New Concept -
-Issued June 2018 – _No Expiration Date_, [_See Certificate_][10]
+Issued June 2018 – _No Expiration Date_, [_See Certificate_](https://drive.google.com/file/d/1zcsX5Sx9z04JEhdHfz1TsIQCZETRiiu8/view?usp=sharing)
 #
 
 <summary><h3>Experience:</h3></summary>
