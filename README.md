@@ -180,6 +180,35 @@ debugging so that my programs run smoothly, Forever.</samp></h4>
 
 <summary><h3>Certificates:</h3></summary>
 
+- **GoLang Developer** — EnigmaCamp - 
+Issued August 2023 – _No Expiration Date_, [See Certificate][https://drive.google.com/file/d/1XQZRI41l-HC7yreCnin_EJa1GlJMF0yn/view?usp=sharing]
+
+- **Merancang dan membuat Basis Data Menggunakan SQL untuk Analis Database** — Data Academy -
+Issued March 2022 – _No Expiration Date_, [_See Certificate_][2]
+
+- **Belajar Ethical Hacking dan Mengatasi Peretasan IT bagi Cyber Security Specialist, Pentester dan White Hat Hacker** — Course-Net -
+Issued March 2022 – _No Expiration Date_, [_See Certificate_][3]
+
+- **Problem Solving (intermediate)** — HackerRank -
+Issued June 2023 – _No Expiration Date_, [_See Certificate_][4]
+
+- **SQL (Advanced)**  — HackerRank -
+Issued Jun 2023 – _No Expiration Date_, [_See Certificate_][5]
+
+- **Hal-hal dasar yang harus kamu tau sebelum belajar Golang!** — Edspert.id -
+Issued November 2022 – _No Expiration Date_, [_See Certificate_][6]
+
+- **Praktik Belajar Docker dan Kubernetes untuk Pemula** — Udemy -
+Issued July 2023 – _No Expiration Date_, [_See Certificate_][7]
+
+- **English Testing Center** — Smk Negri 1 Surabaya -
+Issued march 2018 – _No Expiration Date_, [_See Certificate_][8]
+
+- **Sertifikat Komputer** — Mitra Komputer -
+Issued july 2018 – _No Expiration Date_, [_See Certificate_][9]
+
+- **General English Programme** — New Concept -
+Issued June 2018 – _No Expiration Date_, [_See Certificate_][10]
 #
 
 <summary><h3>Experience:</h3></summary>
