@@ -3,7 +3,11 @@
 </div>
 
 <h4>My Name <b>Echo Edy P</b></h4>
-<samp>I live in a world of bugs, I'm trying to debug my program, But I never get it right. Part of my logic and algorithms is lost in the process, But my passion for programming remains strong, The place where I learned to code, The place where I persevered through challenges. I will continue to learn and grow because everything I love now depends on my skills as a programmer, They are the only colleagues I know, The only work environment I know. I will keep coding and debugging so that my programs run smoothly, Forever.</samp></h4>
+<samp>I live in a world of bugs, I'm trying to debug my program, But I never get it right. Part of my logic and
+algorithms is lost in the process, But my passion for programming remains strong, The place where I learned to code, The
+place where I persevered through challenges. I will continue to learn and grow because everything I love now depends on
+my skills as a programmer, They are the only colleagues I know, The only work environment I know. I will keep coding and
+debugging so that my programs run smoothly, Forever.</samp></h4>
 
 #
 
@@ -171,7 +175,6 @@
     </td>
   </tr>
   </table>
-
 
 #
 
