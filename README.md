@@ -1,4 +1,11 @@
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=EkoEdyPurwanto" alt="EkoEdyPurwanto" /> </p>
+<div style="display: flex; align-items: center;">
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=EkoEdyPurwanto" alt="EkoEdyPurwanto" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/github/stars/EkoEdyPurwanto?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" alt="github" />
+  </p>
+</div>
 
 <div align="center">
 <h1>السلام عليكم ورحمة الله وبركاته</h1>
