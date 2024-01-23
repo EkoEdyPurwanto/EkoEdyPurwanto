@@ -1,5 +1,3 @@
-<br>
-
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=EkoEdyPurwanto" alt="EkoEdyPurwanto" /> </p>
 
 ___
