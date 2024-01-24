@@ -1,4 +1,4 @@
-![EkoEdyPurwanto](https://komarev.com/ghpvc/?username=EkoEdyPurwanto)  ![GitHub Stars](https://img.shields.io/github/stars/EkoEdyPurwanto?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat) 
+![EkoEdyPurwanto](https://komarev.com/ghpvc/?username=EkoEdyPurwanto)  ![GitHub Stars](https://img.shields.io/github/stars/EkoEdyPurwanto?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat)
 
 <div align="center">
 <h1>السلام عليكم ورحمة الله وبركاته</h1>
@@ -190,7 +190,8 @@ debugging so that my programs run smoothly, Forever.</samp></h4>
   _Issued March 2022 – No Expiration Date_, [_See
   Certificate_](https://drive.google.com/file/d/1CotC8NF6OwpSlwJm3E76ON-d2qRDcDMF/view?usp=sharing)
 
-- **Belajar Ethical Hacking dan Mengatasi Peretasan IT bagi Cyber Security Specialist, Pentester dan White Hat Hacker** — Course-Net -
+- **Belajar Ethical Hacking dan Mengatasi Peretasan IT bagi Cyber Security Specialist, Pentester dan White Hat Hacker
+  ** — Course-Net -
   _Issued March 2022 – No Expiration Date_, [_See
   Certificate_](https://drive.google.com/file/d/1mnEacFJIY7iLqxTDY4ub8vj7wGu4Enxp/view?usp=sharing)
 
@@ -225,14 +226,16 @@ debugging so that my programs run smoothly, Forever.</samp></h4>
 - **Linux Dasar** — ID-Networkers -
   _Issued January 2023 – january 2026_, [_See
   Certificate_](https://drive.google.com/file/d/1cSbO4jyWmKXM_ENK7Cd2q5VWINrGUvFe/view?usp=sharing)
+
 #
 
 <summary><h3>Experience:</h3></summary>
 
-| PLACE                                              | STARTED AT    | ENDED AT       | DESCRIPTION                                                                                                                                                                    |
-|----------------------------------------------------|---------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Pondok Programmer](https://pondokprogrammer.com/) | January 2022  | January 2024   | Backend, DevOps,GoLang, AWS, Google Cloud, Rest API, Database, Server, lean Code, Clean Architecture, Containerization, Container Orchestration Platform, Linux, VCS, API Docs |
-| [Enigmacamp](https://enigmacamp.com/)              | August 2023   | September 2023 | Backend, GoLang, Rest API, Database, Server, Clean Code, Clean Architecture, Agile Development, VCS, API Docs                                                                  |
+| PLACE                                               | STARTED AT        | ENDED AT       | DESCRIPTION                                                                                                                                                                              |
+|-----------------------------------------------------|-------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Pondok Programmer](https://pondokprogrammer.com/)  | January 2022      | January 2024   | Backend, DevOps,GoLang, AWS, Google Cloud, Rest API, Database, Server, lean Code, Clean Architecture, Containerization, Container Orchestration Platform, Linux, VCS, API Docs, Markdown |
+| [Enigmacamp](https://enigmacamp.com/)               | August 2023       | September 2023 | Backend, GoLang, Rest API, Database, Server, Clean Code, Clean Architecture, Agile Development, VCS, API Docs                                                                            |
+
 #
 
 <summary><h3>Education:</h3></summary>
