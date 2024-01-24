@@ -1,5 +1,7 @@
+[//]: # (Simple Information)
 ![EkoEdyPurwanto](https://komarev.com/ghpvc/?username=EkoEdyPurwanto)  ![GitHub Stars](https://img.shields.io/github/stars/EkoEdyPurwanto?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat)
 
+[//]: # (About Me)
 <div align="center">
 <h1>السلام عليكم ورحمة الله وبركاته</h1>
 </div>
@@ -9,10 +11,11 @@
 algorithms is lost in the process, But my passion for programming remains strong, The place where I learned to code, The
 place where I persevered through challenges. I will continue to learn and grow because everything I love now depends on
 my skills as a programmer, They are the only colleagues I know, The only work environment I know. I will keep coding and
-debugging so that my programs run smoothly, Forever.</samp></h4>
+debugging so that my programs run smoothly, Forever.</samp>
 
 #
 
+[//]: # (MySkills)
 <summary><h3>I'm currently learning about:</h3></summary>
 <table>
   <tr>
@@ -180,6 +183,7 @@ debugging so that my programs run smoothly, Forever.</samp></h4>
 
 #
 
+[//]: # (MyCertificates)
 <summary><h3>Certificates:</h3></summary>
 
 - **GoLang Developer** — EnigmaCamp -
@@ -229,6 +233,7 @@ debugging so that my programs run smoothly, Forever.</samp></h4>
 
 #
 
+[//]: # (My Experience)
 <summary><h3>Experience:</h3></summary>
 
 | Place                                              | Started at   | Ended at       | Descriptions                                                                                                                                                                             |
@@ -238,6 +243,7 @@ debugging so that my programs run smoothly, Forever.</samp></h4>
 
 #
 
+[//]: # (My Edu)
 <summary><h3>Education:</h3></summary>
 <table>
   <tr>
@@ -253,6 +259,7 @@ debugging so that my programs run smoothly, Forever.</samp></h4>
 
 #
 
+[//]: # (Find Me On)
 <summary><h3>How to reach me:</h3></summary>
   <a href="https://www.instagram.com/cak.bako/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/instagram.svg" alt="codechef" style="vertical-align:top; margin:4px">
@@ -273,10 +280,3 @@ debugging so that my programs run smoothly, Forever.</samp></h4>
     <a href="mailto:echoedyp@proton.me">
     <img src=resources/ICLA/proton.svg alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-
-
-
-<!---
-EchoEdyP/EchoEdyP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
