@@ -236,10 +236,10 @@ debugging so that my programs run smoothly, Forever.</samp>
 [//]: # (My Experience)
 <summary><h3>Experience:</h3></summary>
 
-| Place                                              | Started at   | Ended at       | Descriptions                                                                                                                                                                             |
-|----------------------------------------------------|--------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Pondok Programmer](https://pondokprogrammer.com/) | January 2022 | January 2024   | Backend, DevOps,GoLang, AWS, Google Cloud, Rest API, Database, Server, lean Code, Clean Architecture, Containerization, Container Orchestration Platform, Linux, VCS, API Docs, Markdown |
-| [Enigmacamp](https://enigmacamp.com/)              | August 2023  | September 2023 | Backend, GoLang, Rest API, Database, Server, Clean Code, Clean Architecture, Agile Development, VCS, API Docs                                                                            |
+| Place                                              | Started at   | Ended at       | Descriptions                                                                                                                                                                                          |
+|----------------------------------------------------|--------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Pondok Programmer](https://pondokprogrammer.com/) | January 2022 | January 2024   | Backend, DevOps,GoLang, AWS, Google Cloud, Rest API, CLI Program, Database, Server, Cean Code, Clean Architecture, Containerization, Container Orchestration Platform, Linux, VCS, API Docs, Markdown |
+| [Enigmacamp](https://enigmacamp.com/)              | August 2023  | September 2023 | Backend, GoLang, Rest API, Database, Server, Clean Code, Clean Architecture, Agile Development, VCS, API Docs                                                                                         |
 
 #
 
