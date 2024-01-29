@@ -194,8 +194,7 @@ debugging so that my programs run smoothly, Forever.</samp>
   _Issued March 2022 – No Expiration Date_, [_See
   Certificate_](https://drive.google.com/file/d/1CotC8NF6OwpSlwJm3E76ON-d2qRDcDMF/view?usp=sharing)
 
-- **Belajar Ethical Hacking dan Mengatasi Peretasan IT bagi Cyber Security Specialist, Pentester dan White Hat Hacker
-  ** — Course-Net -
+- **Belajar Ethical Hacking dan Mengatasi Peretasan IT bagi Cyber Security Specialist, Pentester dan White Hat Hacker** — Course-Net -
   _Issued March 2022 – No Expiration Date_, [_See
   Certificate_](https://drive.google.com/file/d/1mnEacFJIY7iLqxTDY4ub8vj7wGu4Enxp/view?usp=sharing)
 
