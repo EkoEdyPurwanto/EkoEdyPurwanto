@@ -302,7 +302,6 @@ debugging so that my programs run smoothly, Forever.</samp>
   </a>&nbsp;&nbsp;&nbsp;
 
 #
-<!-- To increase the size, use the HTML img tag with the width attribute -->
 <a href="https://www.buymeacoffee.com/EkoEdyPurwanto" target="_blank">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="200" alt="Buy Me A Coffee">
 </a>
