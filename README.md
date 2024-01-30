@@ -1,5 +1,10 @@
 [//]: # (Simple Information)
-![EkoEdyPurwanto](https://komarev.com/ghpvc/?username=EkoEdyPurwanto)  ![GitHub Stars](https://img.shields.io/github/stars/EkoEdyPurwanto?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat)
+![EkoEdyPurwanto](https://komarev.com/ghpvc/?username=EkoEdyPurwanto)
+![GitHub Stars](https://img.shields.io/github/stars/EkoEdyPurwanto?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/EkoEdyPurwanto)
+![Operating System](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat&logo=ubuntu)
+
+
 
 [//]: # (About Me)
 <div align="center">
