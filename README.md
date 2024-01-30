@@ -300,3 +300,9 @@ debugging so that my programs run smoothly, Forever.</samp>
     <a href="mailto:echoedyp@proton.me">
     <img src=resources/ICLA/proton.svg alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
+
+#
+<!-- To increase the size, use the HTML img tag with the width attribute -->
+<a href="https://www.buymeacoffee.com/EkoEdyPurwanto">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="200" alt="Buy Me A Coffee">
+</a>
