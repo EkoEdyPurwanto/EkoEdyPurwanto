@@ -239,6 +239,8 @@ debugging so that my programs run smoothly, Forever.</samp>
 | Web Scraping    | An INTERACTIVE CLI Program using Worker and Concurrency for Scraping Wikipedia                                                                           | GoLang, Cobra, Prompt Ui, GoCron, GoQuery, PostgreSQL. |
 | CSV to Database | This program can Insert 1 Million Data from CSV File to Database Server, Using Worker Pool Technique, Database Connection Pool, and Fail over Mechanism. | GoLang, MySQL.                                         |
 | Smart Laundry   | An Smart Laundry app designed to simplify manages Customers .                                                                                            | GoLang, JSON Web Token, Bcrypt GoLang, PostgreSQL.     |
+| TodoLists       | This REST API was developed as part of learning. The project was built using the Go programming language. This program can perform CRUD of Todo          | GoLang, PostgreSQL.                                    |
+| ip Tracker      | This CLI was developed as part of learning. This program can track ip                                                                                    | GoLang.                                                |
 
 #
 
