@@ -108,6 +108,12 @@ debugging so that my programs run smoothly, Forever.</samp>
       </a>
       <br>Grpc
     </td>
+  <td align="center" width="96">
+      <a href="https://www.markdownguide.org/" >
+        <img src="resources/ICLA/Markdown.svg" width="48" height="48" alt="Markdown" />
+      </a>
+      <br>Markdown
+    </td>
   </tr>
   <tr>
   <td align="center" width="96">
@@ -188,6 +194,12 @@ debugging so that my programs run smoothly, Forever.</samp>
         <img src="resources/ICLA/RabbitMq.svg" width="48" height="48" alt="RabbitMQ" />
       </a>
       <br>RabbitMQ
+    </td>
+<td align="center" width="96">
+      <a href="https:cloud.google.com/" >
+        <img src="resources/ICLA/GoogleCloud.svg" width="48" height="48" alt="GoogleCloud" />
+      </a>
+      <br>GoogleCloud
     </td>
   </tr>
   </table>
