@@ -8,9 +8,9 @@
 [//]: # (![Code Time]&#40;http://img.shields.io/badge/Code%20Time-1%2C561%20hrs%2059%20mins-blue&#41;)
 
 [//]: # (![Lines of code]&#40;https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.3%20million%20lines%20of%20code-blue&#41;)
+[//]: # (-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------)
 
-
-[//]: # (About Me)
+[//]: # (who am i)
 <div align="center">
 <h1>السلام عليكم ورحمة الله وبركاته</h1>
 </div>
@@ -21,6 +21,8 @@ algorithms is lost in the process, But my passion for programming remains strong
 place where I persevered through challenges. I will continue to learn and grow because everything I love now depends on
 my skills as a programmer, They are the only colleagues I know, The only work environment I know. I will keep coding and
 debugging so that my programs run smoothly, Forever.</samp>
+
+[//]: # (-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------)
 
 #
 
@@ -190,6 +192,8 @@ debugging so that my programs run smoothly, Forever.</samp>
   </tr>
   </table>
 
+[//]: # (-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------)
+
 #
 
 [//]: # (MyCertificates)
@@ -239,6 +243,8 @@ debugging so that my programs run smoothly, Forever.</samp>
   _Issued January 2023 – january 2026_, [_See
   Certificate_](https://drive.google.com/file/d/1cSbO4jyWmKXM_ENK7Cd2q5VWINrGUvFe/view?usp=sharing)
 
+[//]: # (-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------)
+
 [//]: # (Projects)
 <summary><h3>Projects:</h3></summary>
 
@@ -251,6 +257,8 @@ debugging so that my programs run smoothly, Forever.</samp>
 | TodoLists       | This REST API was developed as part of learning. The project was built using the Go programming language. This program can perform CRUD of Todo          | GoLang, PostgreSQL.                                    |
 | ip Tracker      | This CLI was developed as part of learning. This program can track ip                                                                                    | GoLang.                                                |
 
+[//]: # (-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------)
+
 #
 
 [//]: # (My Experience)
@@ -260,6 +268,8 @@ debugging so that my programs run smoothly, Forever.</samp>
 |----------------------------------------------------|--------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Pondok Programmer](https://pondokprogrammer.com/) | January 2022 | January 2024   | Backend, DevOps,GoLang, AWS, Google Cloud, Rest API, CLI Program, Database, Server, Cean Code, Clean Architecture, Containerization, Container Orchestration Platform, Linux, VCS, API Docs, Markdown |
 | [Enigmacamp](https://enigmacamp.com/)              | August 2023  | September 2023 | Backend, GoLang, Rest API, Database, Server, Clean Code, Clean Architecture, Agile Development, VCS, API Docs                                                                                         |
+
+[//]: # (-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------)
 
 #
 
@@ -276,6 +286,8 @@ debugging so that my programs run smoothly, Forever.</samp>
       </td>
   </tr>
 </table>
+
+[//]: # (-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------)
 
 #
 
@@ -301,7 +313,12 @@ debugging so that my programs run smoothly, Forever.</samp>
     <img src=resources/ICLA/proton.svg alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
+[//]: # (-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------)
+
 #
+
+[//]: # (Buy Me Coffe)
+
 <a href="https://www.buymeacoffee.com/EkoEdyPurwanto" target="_blank">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="200" alt="Buy Me A Coffee">
 </a>
