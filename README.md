@@ -216,7 +216,7 @@ debugging so that my programs run smoothly, Forever.</samp>
   Certificate_](https://drive.google.com/file/d/1XQZRI41l-HC7yreCnin_EJa1GlJMF0yn/view?usp=sharing)
 
 - **Go-Lang Pemula Sampai Mahir** — Udemy -
-  _Issued August 2023 – No Expiration Date_, [_See
+  _Issued December 2022 – No Expiration Date_, [_See
   Certificate_](https://drive.google.com/file/d/1zGweNk0YOimRhqu8BWL4wJHqpMvV37mK/view?usp=sharing)
 
 - **Merancang dan membuat Basis Data Menggunakan SQL untuk Analis Database** — Data Academy -
@@ -243,14 +243,6 @@ debugging so that my programs run smoothly, Forever.</samp>
   _Issued July 2023 – No Expiration Date_, [_See
   Certificate_](https://drive.google.com/file/d/1pI6J3ErkMxZjN39wG4kyn0FIfVruYXWl/view?usp=sharing)
 
-- **English Testing Center** — Smk Negri 1 Surabaya -
-  _Issued march 2018 – No Expiration Date_, [_See
-  Certificate_](https://drive.google.com/file/d/1Lq9c857RfflsizSae9rYv9fPc2e551IL/view?usp=sharing)
-
-- **Sertifikat Komputer** — Mitra Komputer -
-  _Issued july 2018 – No Expiration Date_, [_See
-  Certificate_](https://drive.google.com/file/d/1gZJrDquzxDvMeDV0qQUz8kcXN0HK56_P/view?usp=sharing)
-
 - **General English Programme** — New Concept -
   _Issued June 2018 – No Expiration Date_, [_See
   Certificate_](https://drive.google.com/file/d/1zcsX5Sx9z04JEhdHfz1TsIQCZETRiiu8/view?usp=sharing)
@@ -264,14 +256,14 @@ debugging so that my programs run smoothly, Forever.</samp>
 [//]: # (Projects)
 <summary><h3>Projects:</h3></summary>
 
-| Projects Name   | Projects Description                                                                                                                                     | Built with                                             |
-|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| E-Wallets       | An E-wallet app designed to simplify your financial transactions.                                                                                        | GoLang, JSON Web Token, Bcrypt GoLang, PostgreSQL.     |
-| Web Scraping    | An INTERACTIVE CLI Program using Worker and Concurrency for Scraping Wikipedia                                                                           | GoLang, Cobra, Prompt Ui, GoCron, GoQuery, PostgreSQL. |
-| CSV to Database | This program can Insert 1 Million Data from CSV File to Database Server, Using Worker Pool Technique, Database Connection Pool, and Fail over Mechanism. | GoLang, MySQL.                                         |
-| Smart Laundry   | An Smart Laundry app designed to simplify manages Customers .                                                                                            | GoLang, JSON Web Token, Bcrypt GoLang, PostgreSQL.     |
-| TodoLists       | This REST API was developed as part of learning. The project was built using the Go programming language. This program can perform CRUD of Todo          | GoLang, PostgreSQL.                                    |
-| ip Tracker      | This CLI was developed as part of learning. This program can track ip                                                                                    | GoLang.                                                |
+| Projects Name   | Projects Description                                                                                                                                     | Built with                                              |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| E-Wallets       | An E-wallet app designed to simplify your financial transactions.                                                                                        | Go-Lang, JSON Web Token, Bcrypt Go-Lang, PostgreSQL.    |
+| Web Scraping    | An INTERACTIVE CLI Program using Worker and Concurrency for Scraping Wikipedia                                                                           | Go-Lang, Cobra, Prompt Ui, GoCron, GoQuery, PostgreSQL. |
+| CSV to Database | This program can Insert 1 Million Data from CSV File to Database Server, Using Worker Pool Technique, Database Connection Pool, and Fail over Mechanism. | Go-Lang, MySQL.                                         |
+| Smart Laundry   | An Smart Laundry app designed to simplify manages Customers .                                                                                            | Go-Lang, JSON Web Token, Bcrypt Go-Lang, PostgreSQL.    |
+| TodoLists       | This REST API was developed as part of learning. The project was built using the Go programming language. This program can perform CRUD of Todo          | Go-Lang, PostgreSQL.                                    |
+| ip Tracker      | This CLI was developed as part of learning. This program can track ip                                                                                    | Go-Lang.                                                |
 
 [//]: # (-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------)
 
@@ -280,10 +272,10 @@ debugging so that my programs run smoothly, Forever.</samp>
 [//]: # (My Experience)
 <summary><h3>Experience:</h3></summary>
 
-| Place                                              | Started at   | Ended at       | Descriptions                                                                                                                                                                                          |
-|----------------------------------------------------|--------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Pondok Programmer](https://pondokprogrammer.com/) | January 2022 | January 2024   | Backend, DevOps,GoLang, AWS, Google Cloud, Rest API, CLI Program, Database, Server, Cean Code, Clean Architecture, Containerization, Container Orchestration Platform, Linux, VCS, API Docs, Markdown |
-| [Enigmacamp](https://enigmacamp.com/)              | August 2023  | September 2023 | Backend, GoLang, Rest API, Database, Server, Clean Code, Clean Architecture, Agile Development, VCS, API Docs                                                                                         |
+| Place                                              | Started at   | Ended at       | Descriptions                                                                                                                                                                                           |
+|----------------------------------------------------|--------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Pondok Programmer](https://pondokprogrammer.com/) | January 2022 | January 2024   | Backend, DevOps,Go-Lang, AWS, Google Cloud, Rest API, CLI Program, Database, Server, Cean Code, Clean Architecture, Containerization, Container Orchestration Platform, Linux, VCS, API Docs, Markdown |
+| [EnigmaCamp](https://enigmacamp.com/)              | August 2023  | September 2023 | Backend, Go-Lang, Rest API, Database, Server, Clean Code, Clean Architecture, Agile Development, VCS, API Docs                                                                                         |
 
 [//]: # (-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------)
 
@@ -295,7 +287,7 @@ debugging so that my programs run smoothly, Forever.</samp>
   <tr>
       <td align="center" width="100%">
       <a href="https://smkpenerbangansda.sch.id/" >
-        <img src=resources/E/smkpnb.jpg width="70" height="48" alt="Pondok IT" />
+        <img src=resources/E/smkpnb.jpg width="70" height="48" alt="SMK Penerbangan DW" />
       </a>
       <br>
       <strong>SMK Penerbangan DW</strong>
