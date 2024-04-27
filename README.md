@@ -3,6 +3,8 @@
 ![GitHub Stars](https://img.shields.io/github/stars/EkoEdyPurwanto?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/EkoEdyPurwanto)
 ![Operating System](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat&logo=ubuntu)
+![Operating System](https://img.shields.io/badge/OS-Nixos-blue?style=flat&logo=nixos)
+![Operating System](https://img.shields.io/badge/OS-BTW-blue?style=flat&logo=archlinux)
 [![Awesome Badge](https://awesome.re/mentioned-badge.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 [//]: # (![Code Time]&#40;http://img.shields.io/badge/Code%20Time-1%2C561%20hrs%2059%20mins-blue&#41;)
